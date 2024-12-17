@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "description": "A recently released book.",
+    "price": 9.99,
+    "image": "assets/images/book.jpg",
+    "reviews": [
+      "Thrilling plot."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Comics",
+    "description": "Popular comics among young readers.",
+    "price": 5.99,
+    "image": "assets/images/comics.jpg",
+    "reviews": [
+      "Few pages for it price",
+      "Greate plot with amazing characters."
+    ]
+  }
+]
